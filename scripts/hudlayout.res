@@ -35,5 +35,14 @@
 		"tall"			"100"
 	}
 
+	HudWeaponAmmo
+	{
+		"fieldName"		"HudWeaponAmmo"
+		"xpos"			"r300"
+		"ypos"			"c100"
+		"wide"			"94"
+		"tall"			"45"
+		// ...
+	}
 }
 
