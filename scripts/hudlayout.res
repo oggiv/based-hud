@@ -19,5 +19,21 @@
 		"enabled" 				"1"
 	}
 
+	CMainTargetID
+	{
+		"ypos"		"298"
+	}
+
+	HudMedicCharge
+	{
+		"fieldName" "HudMedicCharge"
+		"visible" "1"
+		"enabled" "1"
+		"xpos" "c-73"
+		"ypos" "c10"
+		"wide"			"200"
+		"tall"			"100"
+	}
+
 }
 
