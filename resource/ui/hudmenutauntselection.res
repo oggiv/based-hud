@@ -66,7 +66,7 @@
 	"TauntModelPanel2"
 	{
 		"ypos"			"0"
-		"paintborder"	
+		"paintborder"	"0"
 	}
 
 	"NumberBg2"
