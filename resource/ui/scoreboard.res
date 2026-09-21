@@ -4,45 +4,45 @@
 {
 	"BlueScoreBG"
 	{
-		"visible"		"0" // !!!
-		"enabled"		"0" // !!!
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	"RedScoreBG"
 	{
-		"visible"		"0" // !!!
-		"enabled"		"0" // !!!
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	"MainBG"
 	{
-		"visible"		"0" // !!!
-		"enabled"		"0" // !!!
+		"visible"		"0"
+		"enabled"		"0"
 	}							
 	"TimerBG"
 	{
-		"visible"		"0" // !!!
-		"enabled"		"0" // !!!
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	"ServerTimeLeftInsetBG"
 	{
-		"visible"		"0" // !!!
-		"enabled"		"0" // !!!
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	"ServerTimeLeftValue"
 	{
-		"fgcolor"		"TanLight" // !!!
+		"fgcolor"		"TanLight"
 	}
 	"ShadedBar"
 	{
-		"visible"		"0" // !!!
-		"enabled"		"0" // !!!
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	"classmodelpanel"
 	{
-		"ypos"			"210" // !!!
+		"ypos"			"210"
 	}
 	"PlayerNameBG"
 	{
-		"visible"		"0" // !!!
-		"enabled"		"0" // !!!
+		"visible"		"0"
+		"enabled"		"0"
 	}
 }
