@@ -11,6 +11,5 @@
 	{
 		"team1_base_x"	"c-50"
 		"team2_base_x"	"c51"
-		}
 	}
 }
